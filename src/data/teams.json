@@ -1,1095 +1,1433 @@
 [
     {
         "name": "Avenue Cue",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=556",
         "players": [
             {
-                "name": "Malhar Desai"
+                "name": "Malhar Desai",
+                "rank": 6
             },
             {
-                "name": "Ana Verma"
+                "name": "Kunick Kapadia",
+                "rank": 6
             },
             {
-                "name": "Rahul Kakar"
+                "name": "Ana Verma",
+                "rank": 4
             },
             {
-                "name": "Neelam Kapadia"
+                "name": "Abhi Chopra",
+                "rank": 4
             },
             {
-                "name": "Kunick Kapadia"
+                "name": "Rahul Kakar",
+                "rank": 5
             },
             {
-                "name": "Abhi Chopra"
+                "name": "Neelam Kapadia",
+                "rank": 6
             }
         ]
     },
     {
         "name": "Cue Tang Clan",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=494",
         "players": [
             {
-                "name": "Reese Pozgay"
+                "name": "Maria Pederson",
+                "rank": 3
             },
             {
-                "name": "Troy Holden"
+                "name": "Ben Moe",
+                "rank": 5
             },
             {
-                "name": "Maria Pederson"
+                "name": "Troy Holden",
+                "rank": 5
             },
             {
-                "name": "Aiss Guerfi"
+                "name": "Aiss Guerfi",
+                "rank": 5
             },
             {
-                "name": "Ben Moe"
+                "name": "Rudi Hanja",
+                "rank": 5
             },
             {
-                "name": "Perrie Grace"
+                "name": "Perrie Grace",
+                "rank": 3
             },
             {
-                "name": "Rudi Hanja"
+                "name": "Sean Donovan",
+                "rank": 6
             },
             {
-                "name": "Sean Donovan"
+                "name": "Reese Pozgay",
+                "rank": 4
             }
         ]
     },
     {
         "name": "Chalk Is Cheap",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=503",
         "players": [
             {
-                "name": "Evan Young (Forfeit)"
+                "name": "Shreyans Sheth",
+                "rank": 5
             },
             {
-                "name": "Alex Basile"
+                "name": "Ariel Salazar",
+                "rank": 4
             },
             {
-                "name": "Shreyans Sheth"
+                "name": "Evan Young",
+                "rank": 5
             },
             {
-                "name": "Ariel Salazar"
+                "name": "Lutz Jacob (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Lakshmi Babureddy"
+                "name": "Lutz Jacob",
+                "rank": 5
             },
             {
-                "name": "Lutz Jacob"
+                "name": "Evan Young (Forfeit)",
+                "rank": 5
             },
             {
-                "name": "Alex Borovik"
+                "name": "Mike Daley",
+                "rank": 3
             },
             {
-                "name": "Mike Daley"
+                "name": "Shreyans Sheth (Forfeit)",
+                "rank": 5
             },
             {
-                "name": "Alex Basile (Forfeit)"
+                "name": "Alex Basile",
+                "rank": 3
             },
             {
-                "name": "Lutz Jacob (Forfeit)"
+                "name": "Lakshmi Babureddy",
+                "rank": 3
             },
             {
-                "name": "Evan Young"
+                "name": "Alex Borovik",
+                "rank": 7
             },
             {
-                "name": "Shreyans Sheth (Forfeit)"
+                "name": "Alex Basile (Forfeit)",
+                "rank": 3
             }
         ]
     },
     {
         "name": "Doom",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=247",
         "players": [
             {
-                "name": "Daniel Rapp"
+                "name": "Donnell Griffith",
+                "rank": 7
             },
             {
-                "name": "Bea Minor"
+                "name": "Brad Fels",
+                "rank": 7
             },
             {
-                "name": "Brad Fels"
+                "name": "Daniel Rapp",
+                "rank": 5
             },
             {
-                "name": "Donnell Griffith"
+                "name": "Kevin Chen",
+                "rank": 8
             },
             {
-                "name": "Michael Jones"
+                "name": "Bea Minor",
+                "rank": 5
             },
             {
-                "name": "Beth Joy"
+                "name": "Michael Jones",
+                "rank": 4
             },
             {
-                "name": "Kevin Chen"
+                "name": "Beth Joy",
+                "rank": 4
             }
         ]
     },
     {
         "name": "The Chalking Dead",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=257",
         "players": [
             {
-                "name": "Michael Chen"
+                "name": "Hebe Joy",
+                "rank": 5
             },
             {
-                "name": "Kevin Li"
+                "name": "Kevin Li",
+                "rank": 8
             },
             {
-                "name": "David Yang"
+                "name": "Yao Bao",
+                "rank": 6
             },
             {
-                "name": "Jonathan Tao"
+                "name": "Ken Yu",
+                "rank": 6
             },
             {
-                "name": "Hebe Joy"
+                "name": "Jonathan Tao",
+                "rank": 6
             },
             {
-                "name": "Yao Bao"
+                "name": "David Yang",
+                "rank": 5
             },
             {
-                "name": "Ken Yu"
+                "name": "Michael Chen",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Segfault",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=553",
         "players": [
             {
-                "name": "Saurabh Baisane"
+                "name": "Shiyi Li",
+                "rank": 4
             },
             {
-                "name": "Piyush Jindal"
+                "name": "Piyush Jindal",
+                "rank": 6
             },
             {
-                "name": "Tyler King"
+                "name": "Tyler King",
+                "rank": 3
             },
             {
-                "name": "Shiyi Li"
+                "name": "Kiran Gavali",
+                "rank": 6
             },
             {
-                "name": "Shashidhar Sundareisan"
+                "name": "Saurabh Baisane",
+                "rank": 5
             },
             {
-                "name": "Kiran Gavali"
+                "name": "Shashidhar Sundareisan",
+                "rank": 5
             },
             {
-                "name": "Stan Liu"
+                "name": "Stan Liu",
+                "rank": 4
             }
         ]
     },
     {
         "name": "Shotskis",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=549",
         "players": [
             {
-                "name": "Taylor Crossland (Forfeit)"
+                "name": "Dag Dereje",
+                "rank": 4
             },
             {
-                "name": "Jacob Shomstein"
+                "name": "Taylor Crossland (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Edgar Diaz"
+                "name": "Jacob Shomstein",
+                "rank": 6
             },
             {
-                "name": "Aditya Jha"
+                "name": "Edgar Diaz",
+                "rank": 3
             },
             {
-                "name": "Joshua Lebedinsky"
+                "name": "Taylor Crossland",
+                "rank": 4
             },
             {
-                "name": "Dag Dereje"
+                "name": "Aditya Jha",
+                "rank": 3
             },
             {
-                "name": "Taylor Crossland"
+                "name": "Joshua Lebedinsky",
+                "rank": 6
             }
         ]
     },
     {
         "name": "Rack Appreciation Society",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=467",
         "players": [
             {
-                "name": "John Kerbawy"
+                "name": "John Kerbawy",
+                "rank": 8
             },
             {
-                "name": "Miles Gordon"
+                "name": "Miles Gordon",
+                "rank": 5
             },
             {
-                "name": "Rommel Alama"
+                "name": "Armando Ramos",
+                "rank": 7
             },
             {
-                "name": "Ethan Nguyen"
+                "name": "Nick Sanfardino",
+                "rank": 6
             },
             {
-                "name": "Nick Sanfardino"
+                "name": "Mike Manney",
+                "rank": 5
             },
             {
-                "name": "Eric Biddulphwest"
+                "name": "Ethan Nguyen",
+                "rank": 5
             },
             {
-                "name": "Mike Manney"
+                "name": "Rommel Alama",
+                "rank": 7
             },
             {
-                "name": "Armando Ramos"
+                "name": "Eric Biddulphwest",
+                "rank": 5
             }
         ]
     },
     {
         "name": "No Safeties",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=513",
         "players": [
             {
-                "name": "Charles Brunold"
+                "name": "Charles Brunold",
+                "rank": 7
             },
             {
-                "name": "Jason Sam"
+                "name": "Elena Walker",
+                "rank": 5
             },
             {
-                "name": "Elena Walker"
+                "name": "John Moon (Forfeit)",
+                "rank": 7
             },
             {
-                "name": "Spencer Smith"
+                "name": "Spencer Smith",
+                "rank": 6
             },
             {
-                "name": "Daniel Micher"
+                "name": "John Moon",
+                "rank": 7
             },
             {
-                "name": "John Moon"
+                "name": "Jason Sam",
+                "rank": 8
             },
             {
-                "name": "John Moon (Forfeit)"
+                "name": "Daniel Micher",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Always Going For The Nine",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=234",
         "players": [
             {
-                "name": "Nick Owens"
+                "name": "Nicholas Hofbauer",
+                "rank": 6
             },
             {
-                "name": "Eddie Fortin (Forfeit)"
+                "name": "Adrian Hiotis",
+                "rank": 5
             },
             {
-                "name": "Nicholas Hofbauer"
+                "name": "Olivia Truong",
+                "rank": 4
             },
             {
-                "name": "Mindy Leslie"
+                "name": "Mark Kachelries",
+                "rank": 6
             },
             {
-                "name": "Olivia Truong"
+                "name": "Eddie Fortin (Forfeit)",
+                "rank": 5
             },
             {
-                "name": "Mark Kachelries"
+                "name": "Mindy Leslie",
+                "rank": 6
             },
             {
-                "name": "Eddie Fortin"
+                "name": "Eddie Fortin",
+                "rank": 5
             },
             {
-                "name": "Adrian Hiotis"
+                "name": "Nick Owens",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Better Call Sean",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=509",
         "players": [
             {
-                "name": "Jean Louis Leroy (Forfeit)"
+                "name": "Rahul Keyal",
+                "rank": 3
             },
             {
-                "name": "Lise Ho"
+                "name": "Jean Louis Leroy",
+                "rank": 6
             },
             {
-                "name": "Ben Groh"
+                "name": "Brian Maher",
+                "rank": 3
             },
             {
-                "name": "Brian Maher"
+                "name": "Lise Ho",
+                "rank": 3
             },
             {
-                "name": "Mario Longobardi"
+                "name": "Jean Louis Leroy (Forfeit)",
+                "rank": 5
             },
             {
-                "name": "Sandeep Sunny"
+                "name": "Mario Longobardi (Forfeit)",
+                "rank": 3
             },
             {
-                "name": "Rahul Keyal"
+                "name": "Ben Groh (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Ben Groh (Forfeit)"
+                "name": "Rahul Keyal (Forfeit)",
+                "rank": 3
             },
             {
-                "name": "Rahul Keyal (Forfeit)"
+                "name": "Sandeep Sunny",
+                "rank": 5
             },
             {
-                "name": "Jean Louis Leroy"
+                "name": "Ben Groh",
+                "rank": 4
             },
             {
-                "name": "Mario Longobardi (Forfeit)"
+                "name": "Mario Longobardi",
+                "rank": 3
             }
         ]
     },
     {
         "name": "The Bloomie B List",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=560",
         "players": [
             {
-                "name": "Julian Haresco"
+                "name": "Adentunji Shennaike",
+                "rank": 3
             },
             {
-                "name": "Pete Siki"
+                "name": "Nicholas Baldaro",
+                "rank": 3
             },
             {
-                "name": "Adrian Gaurila"
+                "name": "Pete Siki",
+                "rank": 4
             },
             {
-                "name": "Abder Mihoubi"
+                "name": "Julian Haresco",
+                "rank": 4
             },
             {
-                "name": "Nicholas Baldaro"
+                "name": "Adrian Gaurila",
+                "rank": 4
             },
             {
-                "name": "Ronald Cajigas"
+                "name": "Ronald Cajigas",
+                "rank": 3
             },
             {
-                "name": "Adentunji Shennaike"
+                "name": "Abder Mihoubi",
+                "rank": 4
             }
         ]
     },
     {
         "name": "Shake And Break",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=527",
         "players": [
             {
-                "name": "Angela Snowton"
+                "name": "Nick Makes",
+                "rank": 8
             },
             {
-                "name": "Nick Makes"
+                "name": "Jamie Anderson",
+                "rank": 3
             },
             {
-                "name": "Tyler Kaye"
+                "name": "Jordan Tse",
+                "rank": 3
             },
             {
-                "name": "Mike OBrien"
+                "name": "Tyler Kaye",
+                "rank": 5
             },
             {
-                "name": "Jamie Anderson"
+                "name": "Mike OBrien",
+                "rank": 5
             },
             {
-                "name": "Jordan Tse"
+                "name": "Angela Snowton",
+                "rank": 3
             },
             {
-                "name": "Kendall Nunn"
+                "name": "Mo Takao",
+                "rank": 7
             },
             {
-                "name": "Mo Takao"
+                "name": "Kendall Nunn",
+                "rank": 7
             }
         ]
     },
     {
         "name": "The Eight Makers",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=558",
         "players": [
             {
-                "name": "Jeff Diers"
+                "name": "Jeff Diers",
+                "rank": 5
             },
             {
-                "name": "Seth Rubin"
+                "name": "Jennifer Mary",
+                "rank": 3
             },
             {
-                "name": "Merril Jeffs"
+                "name": "Dagm Zegeye",
+                "rank": 5
             },
             {
-                "name": "Thuy Tran"
+                "name": "Thuy Tran",
+                "rank": 4
             },
             {
-                "name": "Sabine Lafleur"
+                "name": "Seth Rubin",
+                "rank": 4
             },
             {
-                "name": "Jennifer Mary"
+                "name": "Merril Jeffs",
+                "rank": 5
             },
             {
-                "name": "Shan Sengottaiyan"
+                "name": "Shan Sengottaiyan",
+                "rank": 5
             },
             {
-                "name": "Dagm Zegeye"
+                "name": "Sabine Lafleur",
+                "rank": 3
             }
         ]
     },
     {
         "name": "Ball Droppers",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=557",
         "players": [
             {
-                "name": "Tom Martin"
+                "name": "Dario Tapia",
+                "rank": 9
             },
             {
-                "name": "Luis Ortiz"
+                "name": "Gabby Santana",
+                "rank": 4
             },
             {
-                "name": "Katya Slepoy (Forfeit)"
+                "name": "Tom Martin",
+                "rank": 6
             },
             {
-                "name": "Gabby Santana"
+                "name": "Carmelo Andujar",
+                "rank": 7
             },
             {
-                "name": "Luis Ortiz (Forfeit)"
+                "name": "Madeleine Wilson",
+                "rank": 4
             },
             {
-                "name": "Theresa Hong"
+                "name": "Theresa Hong",
+                "rank": 4
             },
             {
-                "name": "Katya Slepoy"
+                "name": "Katya Slepoy",
+                "rank": 4
             },
             {
-                "name": "Madeleine Wilson (Forfeit)"
+                "name": "Luis Ortiz",
+                "rank": 8
             },
             {
-                "name": "Carmelo Andujar (Forfeit)"
+                "name": "Dario Tapia (Forfeit)",
+                "rank": 9
             },
             {
-                "name": "Carmelo Andujar"
+                "name": "Luis Ortiz (Forfeit)",
+                "rank": 8
             },
             {
-                "name": "Madeleine Wilson"
+                "name": "Carmelo Andujar (Forfeit)",
+                "rank": 7
             },
             {
-                "name": "Dario Tapia (Forfeit)"
+                "name": "Katya Slepoy (Forfeit)",
+                "rank": 2
             },
             {
-                "name": "Dario Tapia"
+                "name": "Madeleine Wilson (Forfeit)",
+                "rank": 4
             }
         ]
     },
     {
         "name": "Hot Pockets",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=546",
         "players": [
             {
-                "name": "Paul Gossman"
+                "name": "Paul Gossman",
+                "rank": 7
             },
             {
-                "name": "Joey Shurtleff"
+                "name": "David Crandall",
+                "rank": 4
             },
             {
-                "name": "Tim Burns"
+                "name": "Aaron Lewis",
+                "rank": 5
             },
             {
-                "name": "Aaron Lewis"
+                "name": "Joey Shurtleff",
+                "rank": 5
             },
             {
-                "name": "David Crandall"
+                "name": "Julia Opatrny",
+                "rank": 2
             },
             {
-                "name": "Julia Opatrny"
+                "name": "Tim Burns",
+                "rank": 7
             }
         ]
     },
     {
         "name": "Demon Time",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=550",
         "players": [
             {
-                "name": "Flomary Swensen"
+                "name": "Noon Chan",
+                "rank": 2
             },
             {
-                "name": "Iris Chang"
+                "name": "Spencer Charles",
+                "rank": 3
             },
             {
-                "name": "Noon Chan"
+                "name": "Flomary Swensen",
+                "rank": 4
             },
             {
-                "name": "Spencer Charles"
+                "name": "Eazy Laster",
+                "rank": 5
             },
             {
-                "name": "Jason Robinson"
+                "name": "Jason Robinson",
+                "rank": 6
             },
             {
-                "name": "Will Moore"
+                "name": "Will Moore",
+                "rank": 5
             },
             {
-                "name": "Eazy Laster"
+                "name": "Iris Chang",
+                "rank": 3
             }
         ]
     },
     {
         "name": "I'd Hit That",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=238",
         "players": [
             {
-                "name": "Kevin Glick"
+                "name": "Bruce Kleiman",
+                "rank": 7
             },
             {
-                "name": "Bruce Kleiman"
+                "name": "Jason Skipper",
+                "rank": 6
             },
             {
-                "name": "Glenn Warnecke"
+                "name": "John Doucette",
+                "rank": 6
             },
             {
-                "name": "Patricia Arroyo"
+                "name": "Kevin Glick",
+                "rank": 7
             },
             {
-                "name": "Jason Skipper"
+                "name": "Patricia Arroyo",
+                "rank": 4
             },
             {
-                "name": "Mark Barranco"
+                "name": "Glenn Warnecke",
+                "rank": 5
             },
             {
-                "name": "John Doucette"
+                "name": "Mark Barranco",
+                "rank": 6
             }
         ]
     },
     {
         "name": "MonGods",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=536",
         "players": [
             {
-                "name": "Andrew Chen"
+                "name": "Natalie Tsvetkova (Forfeit)",
+                "rank": 3
             },
             {
-                "name": "Paul Aldana"
+                "name": "Paul Aldana",
+                "rank": 5
             },
             {
-                "name": "Natalie Tsvetkova (Forfeit)"
+                "name": "Wenqin Ye",
+                "rank": 3
             },
             {
-                "name": "Thomas Tran"
+                "name": "Jason Ngassa",
+                "rank": 4
             },
             {
-                "name": "Jonathan Lee"
+                "name": "Jonathan Lee",
+                "rank": 4
             },
             {
-                "name": "Wenqin Ye"
+                "name": "Thomas Tran",
+                "rank": 4
             },
             {
-                "name": "Jason Ngassa"
+                "name": "Natalie Tsvetkova",
+                "rank": 3
             },
             {
-                "name": "Natalie Tsvetkova"
+                "name": "Andrew Chen",
+                "rank": 4
             }
         ]
     },
     {
         "name": "Pocketeers",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=237",
         "players": [
             {
-                "name": "Fabian Marquez"
+                "name": "John Bates",
+                "rank": 6
             },
             {
-                "name": "Valerie Bennett"
+                "name": "Kim Mcadams",
+                "rank": 6
             },
             {
-                "name": "John Bates"
+                "name": "Julio Pena",
+                "rank": 7
             },
             {
-                "name": "Hal Klinger"
+                "name": "Kristie Lim",
+                "rank": 3
             },
             {
-                "name": "Julio Pena"
+                "name": "Valerie Bennett",
+                "rank": 5
             },
             {
-                "name": "Kim Mcadams"
+                "name": "Fabian Marquez",
+                "rank": 7
             },
             {
-                "name": "Kristie Lim"
+                "name": "Hal Klinger",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Ready On Cue",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=502",
         "players": [
             {
-                "name": "Shubh Varma"
+                "name": "Vinny Merolla",
+                "rank": 4
             },
             {
-                "name": "Gene Demo"
+                "name": "Justin Lozano",
+                "rank": 4
             },
             {
-                "name": "Vinny Merolla"
+                "name": "Justin Chang",
+                "rank": 8
             },
             {
-                "name": "Gene Heinrich"
+                "name": "Shubh Varma",
+                "rank": 5
             },
             {
-                "name": "Justin Chang"
+                "name": "Gene Heinrich",
+                "rank": 8
             },
             {
-                "name": "Justin Lozano"
+                "name": "Gene Demo",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Continue Break",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=459",
         "players": [
             {
-                "name": "Rebecca Gu"
+                "name": "Michael OBeirne (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Michael OBeirne (Forfeit)"
+                "name": "Adam Norton",
+                "rank": 7
             },
             {
-                "name": "Adam Norton"
+                "name": "Rebecca Gu",
+                "rank": 4
             },
             {
-                "name": "Michael Yan"
+                "name": "Michael Yan",
+                "rank": 6
             },
             {
-                "name": "Michael OBeirne"
+                "name": "Aiden Xiao",
+                "rank": 7
             },
             {
-                "name": "Eddy Wang"
+                "name": "Eddy Wang",
+                "rank": 6
             },
             {
-                "name": "Ben Kiefer"
+                "name": "Michael OBeirne",
+                "rank": 4
             },
             {
-                "name": "Aiden Xiao"
+                "name": "Ben Kiefer",
+                "rank": 3
             }
         ]
     },
     {
         "name": "Weekend Warriors",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=548",
         "players": [
             {
-                "name": "Matt Moses"
+                "name": "Mike Laterza",
+                "rank": 4
             },
             {
-                "name": "Mike Spaeth (Forfeit)"
+                "name": "Matt Moses",
+                "rank": 4
             },
             {
-                "name": "Ryan Segal"
+                "name": "Mike Laterza (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Mike Laterza"
+                "name": "Ryan Segal",
+                "rank": 4
             },
             {
-                "name": "Matt Moses (Forfeit)"
+                "name": "Jordan Essinger",
+                "rank": 3
             },
             {
-                "name": "Pat Lebuhn"
+                "name": "Mike Spaeth (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Mike Spaeth"
+                "name": "Mike Spaeth",
+                "rank": 4
             },
             {
-                "name": "Pat Lebuhn (Forfeit)"
+                "name": "Matt Moses (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Mike Laterza (Forfeit)"
+                "name": "Pat Lebuhn (Forfeit)",
+                "rank": 4
             },
             {
-                "name": "Jordan Essinger"
+                "name": "Pat Lebuhn",
+                "rank": 4
             }
         ]
     },
     {
         "name": "Super Billiards Brothers",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=521",
         "players": [
             {
-                "name": "Kartikey Grover"
+                "name": "Izzo Castillo (Forfeit)",
+                "rank": 6
             },
             {
-                "name": "Steven The"
+                "name": "Kartikey Grover",
+                "rank": 7
             },
             {
-                "name": "Izzo Castillo (Forfeit)"
+                "name": "John Kang",
+                "rank": 6
             },
             {
-                "name": "Izzo Castillo"
+                "name": "Steven The",
+                "rank": 5
             },
             {
-                "name": "Ramesh Torres"
+                "name": "Izzo Castillo",
+                "rank": 6
             },
             {
-                "name": "Neil Hickey"
+                "name": "John Kang (Forfeit)",
+                "rank": 6
             },
             {
-                "name": "John Kang"
+                "name": "Ramesh Torres",
+                "rank": 6
             },
             {
-                "name": "John Kang (Forfeit)"
+                "name": "Neil Hickey",
+                "rank": 7
             }
         ]
     },
     {
         "name": "Rack N Rollers",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=495",
         "players": [
             {
-                "name": "Emmit Flynn (Forfeit)"
+                "name": "Jane Nechayevsky",
+                "rank": 2
             },
             {
-                "name": "Aaron Pope"
+                "name": "Sherrie Mark",
+                "rank": 3
             },
             {
-                "name": "Henry Chavez"
+                "name": "Aaron Pope",
+                "rank": 4
             },
             {
-                "name": "Joel Gonzalez"
+                "name": "Henry Chavez",
+                "rank": 4
             },
             {
-                "name": "Emmit Flynn"
+                "name": "Joel Gonzalez",
+                "rank": 6
             },
             {
-                "name": "Jane Nechayevsky"
+                "name": "Emmit Flynn",
+                "rank": 4
             },
             {
-                "name": "Sherrie Mark"
+                "name": "Emmit Flynn (Forfeit)",
+                "rank": 4
             }
         ]
     },
     {
         "name": "Ballz 2 The Wall",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=254",
         "players": [
             {
-                "name": "John LaMura"
+                "name": "Tony Pecora",
+                "rank": 6
             },
             {
-                "name": "Dennis Gibbons"
+                "name": "Dennis Gibbons",
+                "rank": 5
             },
             {
-                "name": "Ross Zeltzer"
+                "name": "Jerry Teicht",
+                "rank": 6
             },
             {
-                "name": "Jerry Teicht"
+                "name": "Ross Zeltzer",
+                "rank": 5
             },
             {
-                "name": "Tony Pecora"
+                "name": "John LaMura",
+                "rank": 3
             }
         ]
     },
     {
         "name": "MYOB",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=217",
         "players": [
             {
-                "name": "Vidhya Kamdar"
+                "name": "Frank Fico",
+                "rank": 7
             },
             {
-                "name": "James Killen"
+                "name": "Richard Constable",
+                "rank": 7
             },
             {
-                "name": "Sara Firestone"
+                "name": "Vidhya Kamdar",
+                "rank": 2
             },
             {
-                "name": "Kimberly Fontanilla"
+                "name": "Allison LaFleur",
+                "rank": 7
             },
             {
-                "name": "Allison LaFleur"
+                "name": "Kimberly Fontanilla",
+                "rank": 5
             },
             {
-                "name": "Richard Constable"
+                "name": "James Killen",
+                "rank": 6
             },
             {
-                "name": "Inessa Gelman"
+                "name": "Inessa Gelman",
+                "rank": 6
             },
             {
-                "name": "Frank Fico"
+                "name": "Sara Firestone",
+                "rank": 6
             }
         ]
     },
     {
         "name": "4 Q People",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=507",
         "players": [
             {
-                "name": "Lenn Bryant"
+                "name": "James Brinnen",
+                "rank": 5
             },
             {
-                "name": "James Brinnen"
+                "name": "Joseph Kleinman",
+                "rank": 6
             },
             {
-                "name": "Alex Franchilli"
+                "name": "Alex Franchilli",
+                "rank": 5
             },
             {
-                "name": "Shi Chen"
+                "name": "Shi Chen",
+                "rank": 4
             },
             {
-                "name": "Joseph Kleinman"
+                "name": "Lenn Bryant",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Rich Strikers",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=543",
         "players": [
             {
-                "name": "Charles ONeill"
+                "name": "Mickal Famorca",
+                "rank": 5
             },
             {
-                "name": "Sara Goldman"
+                "name": "Jonathan Tirrell",
+                "rank": 5
             },
             {
-                "name": "Christian Johnson"
+                "name": "Teddy Ellison",
+                "rank": 5
             },
             {
-                "name": "Teddy Ellison"
+                "name": "Charles ONeill",
+                "rank": 4
             },
             {
-                "name": "Brett Schreiber"
+                "name": "Christian Johnson",
+                "rank": 6
             },
             {
-                "name": "Mickal Famorca"
+                "name": "Brett Schreiber",
+                "rank": 4
             },
             {
-                "name": "Jonathan Tirrell"
+                "name": "Sara Goldman",
+                "rank": 3
             }
         ]
     },
     {
         "name": "Wild Nine West",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=542",
         "players": [
             {
-                "name": "Sanjid Dewan"
+                "name": "Angelo Quadara",
+                "rank": 9
             },
             {
-                "name": "Brandi Ripp"
+                "name": "Julia Sacknoff",
+                "rank": 4
             },
             {
-                "name": "Ryan Chiu"
+                "name": "Ryan Chiu",
+                "rank": 4
             },
             {
-                "name": "Angelo Quadara"
+                "name": "Emmeline Chen",
+                "rank": 4
             },
             {
-                "name": "Emmeline Chen"
+                "name": "Daniel Ilibassi",
+                "rank": 6
             },
             {
-                "name": "Daniel Ilibassi"
+                "name": "Brandi Ripp",
+                "rank": 3
             },
             {
-                "name": "Julia Sacknoff"
+                "name": "Sanjid Dewan",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Straight Shooters",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=544",
         "players": [
             {
-                "name": "Jonathan Roth"
+                "name": "Mukesh Khurana",
+                "rank": 5
             },
             {
-                "name": "Brian McGough"
+                "name": "Mary Lenz",
+                "rank": 4
             },
             {
-                "name": "Mukesh Khurana"
+                "name": "David Noah",
+                "rank": 5
             },
             {
-                "name": "Olivia Barbulescu"
+                "name": "Olivia Barbulescu",
+                "rank": 2
             },
             {
-                "name": "David Noah"
+                "name": "Brian McGough",
+                "rank": 5
             },
             {
-                "name": "Mary Lenz"
+                "name": "Ryan Hall",
+                "rank": 4
             },
             {
-                "name": "Ryan Hall"
+                "name": "Jonathan Roth",
+                "rank": 6
             }
         ]
     },
     {
         "name": "Chalk -N- Bourbon",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=493",
         "players": [
             {
-                "name": "Jamie Piszak"
+                "name": "Landrew Gomes",
+                "rank": 7
             },
             {
-                "name": "Amaury Lozano"
+                "name": "Jamie Piszak",
+                "rank": 5
             },
             {
-                "name": "Jonathan Lindsay"
+                "name": "Max Schuster",
+                "rank": 3
             },
             {
-                "name": "Landrew Gomes"
+                "name": "Amaury Lozano",
+                "rank": 4
             },
             {
-                "name": "Max Schuster"
+                "name": "Daniel Wright",
+                "rank": 4
             },
             {
-                "name": "Daniel Wright"
+                "name": "Jonathan Lindsay",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Pickpockets",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=476",
         "players": [
             {
-                "name": "Simon NG"
+                "name": "Mary Murphy",
+                "rank": 7
             },
             {
-                "name": "Lenny Bogdanov"
+                "name": "Johnny Osorio",
+                "rank": 8
             },
             {
-                "name": "Mary Murphy"
+                "name": "Simon NG",
+                "rank": 7
             },
             {
-                "name": "Johnny Osorio"
+                "name": "Salvatore Russo (Forfeit)",
+                "rank": 5
             },
             {
-                "name": "Andrew Russo"
+                "name": "Salvatore Russo",
+                "rank": 5
             },
             {
-                "name": "Salvatore Russo"
+                "name": "Lenny Bogdanov",
+                "rank": 8
             },
             {
-                "name": "Salvatore Russo (Forfeit)"
+                "name": "Andrew Russo",
+                "rank": 5
             }
         ]
     },
     {
         "name": "Baby Sharks",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=555",
         "players": [
             {
-                "name": "Erik Ljungberg"
+                "name": "Chelsea Ireland",
+                "rank": 3
             },
             {
-                "name": "Arpan Patel"
+                "name": "Arpan Patel (Forfeit)",
+                "rank": 5
             },
             {
-                "name": "Chelsea Ireland"
+                "name": "Andy Zalkin",
+                "rank": 3
             },
             {
-                "name": "Arpan Patel (Forfeit)"
+                "name": "Arpan Patel",
+                "rank": 5
             },
             {
-                "name": "Russell Wilcox"
+                "name": "Erik Ljungberg",
+                "rank": 5
             },
             {
-                "name": "Andy Zalkin"
+                "name": "Russell Wilcox",
+                "rank": 7
             }
         ]
     },
     {
         "name": "Shots!!!!",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=230",
         "players": [
             {
-                "name": "Katrel Ortiz"
+                "name": "Charish Patel",
+                "rank": 7
             },
             {
-                "name": "Marisa Woo"
+                "name": "Ben Reid",
+                "rank": 5
             },
             {
-                "name": "Ben Boucher"
+                "name": "Ben Boucher",
+                "rank": 5
             },
             {
-                "name": "Ed Reyes"
+                "name": "Katrel Ortiz",
+                "rank": 5
             },
             {
-                "name": "Cory Moelis"
+                "name": "Marisa Woo",
+                "rank": 3
             },
             {
-                "name": "Ben Reid"
+                "name": "Ed Reyes",
+                "rank": 6
             },
             {
-                "name": "Charish Patel"
+                "name": "Courtney Prescott",
+                "rank": 5
             },
             {
-                "name": "Courtney Prescott"
+                "name": "Cory Moelis",
+                "rank": 6
             }
         ]
     },
     {
         "name": "Silent Predators",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=236",
         "players": [
             {
-                "name": "Thomas Shuler"
+                "name": "Alan Gil",
+                "rank": 7
             },
             {
-                "name": "Alan Gil"
+                "name": "Corinne Chen",
+                "rank": 4
             },
             {
-                "name": "Corinne Chen"
+                "name": "Wayne Chow",
+                "rank": 7
             },
             {
-                "name": "Safwan Saif"
+                "name": "Thomas Shuler",
+                "rank": 7
             },
             {
-                "name": "Garrett London"
+                "name": "Garrett London",
+                "rank": 6
             },
             {
-                "name": "Wayne Chow"
+                "name": "Safwan Saif",
+                "rank": 7
             }
         ]
     },
     {
         "name": "Alpha Sheep",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=528",
         "players": [
             {
-                "name": "Patrick Freed"
+                "name": "Pavi Vetriselvan",
+                "rank": 5
             },
             {
-                "name": "John Giordano"
+                "name": "Stephanie Tortora",
+                "rank": 3
             },
             {
-                "name": "Mathew Chiaravalloti"
+                "name": "Patrick Freed",
+                "rank": 6
             },
             {
-                "name": "Stephanie Tortora"
+                "name": "Nick Palmer",
+                "rank": 5
             },
             {
-                "name": "Nick Palmer"
+                "name": "Mathew Chiaravalloti",
+                "rank": 5
             },
             {
-                "name": "Pavi Vetriselvan"
+                "name": "John Giordano",
+                "rank": 6
             }
         ]
     },
     {
         "name": "The Ballers",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=532",
         "players": [
             {
-                "name": "Nick Demarco"
+                "name": "Osmar Olivo",
+                "rank": 5
             },
             {
-                "name": "Osmar Olivo"
+                "name": "Kirby Kohlmorgen",
+                "rank": 5
             },
             {
-                "name": "Colby Tresness"
+                "name": "Colby Tresness",
+                "rank": 6
             },
             {
-                "name": "Kym Ganade"
+                "name": "Jerzy Fischer",
+                "rank": 6
             },
             {
-                "name": "Jerzy Fischer"
+                "name": "Andreas Nilsson",
+                "rank": 7
             },
             {
-                "name": "Kirby Kohlmorgen"
+                "name": "Nick Demarco",
+                "rank": 5
             },
             {
-                "name": "Andreas Nilsson"
+                "name": "Kirby Kohlmorgen (Forfeit)",
+                "rank": 5
             },
             {
-                "name": "Kirby Kohlmorgen (Forfeit)"
+                "name": "Kym Ganade",
+                "rank": 6
             }
         ]
     },
     {
         "name": "Pool Beings",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=552",
         "players": [
             {
-                "name": "Jonah Yang"
+                "name": "Ed Tesler",
+                "rank": 5
             },
             {
-                "name": "Ed Tesler"
+                "name": "Dominic Cashiola",
+                "rank": 4
             },
             {
-                "name": "Julia Goodkin"
+                "name": "Frank Dutan",
+                "rank": 3
             },
             {
-                "name": "Christian Cashiola"
+                "name": "Camryn Lessing",
+                "rank": 3
             },
             {
-                "name": "Dominic Cashiola"
+                "name": "Jonah Yang",
+                "rank": 3
             },
             {
-                "name": "Frank Dutan"
+                "name": "Julia Goodkin",
+                "rank": 3
             },
             {
-                "name": "Camryn Lessing"
+                "name": "Christian Cashiola",
+                "rank": 4
             }
         ]
     },
     {
         "name": "6 Guys 8 Balls",
+        "url": "/8ball/abc/team_scouting_report.php?season_id=215&team_id=559",
         "players": [
             {
-                "name": "Bradley Robertson"
+                "name": "Brendan Geen",
+                "rank": 3
             },
             {
-                "name": "Brendan Geen"
+                "name": "Raj Narayan",
+                "rank": 3
             },
             {
-                "name": "Alden Gonzalez"
+                "name": "David Panger",
+                "rank": 4
             },
             {
-                "name": "David Panger"
+                "name": "Miles Yaeger",
+                "rank": 4
             },
             {
-                "name": "Raj Narayan"
+                "name": "Bradley Robertson",
+                "rank": 6
             },
             {
-                "name": "Chad Charrette"
+                "name": "Alden Gonzalez",
+                "rank": 5
             },
             {
-                "name": "Miles Yaeger"
+                "name": "Chad Charrette",
+                "rank": 3
             }
         ]
     }
