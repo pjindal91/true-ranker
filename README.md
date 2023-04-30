@@ -53,6 +53,571 @@ Finally the statistics with adjusted rank is written out in file `stats.json`.
 
 # Results
 
+## Segfault Team
+
+```
+{
+        "name": "Shiyi Li",
+        "team": "Segfault",
+        "original_rank": 4,
+        "adjusted_rank": 3.3,
+        "total_frames_won": 22,
+        "total_frames_lost": 22,
+        "total_matches_won": 4,
+        "total_matches_lost": 2,
+        "oponent_breakdown": {
+            "2": {
+                "rank": 2,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 3,
+                "frames_lost": 5
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 2,
+                "matches_lost": 0,
+                "frames_won": 9,
+                "frames_lost": 4
+            },
+            "7": {
+                "rank": 7,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 2,
+                "frames_lost": 7
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 2,
+                "matches_lost": 0,
+                "frames_won": 8,
+                "frames_lost": 6
+            }
+        }
+    },
+    {
+        "name": "Piyush Jindal",
+        "team": "Segfault",
+        "original_rank": 6,
+        "adjusted_rank": 5.4,
+        "total_frames_won": 33,
+        "total_frames_lost": 47,
+        "total_matches_won": 2,
+        "total_matches_lost": 7,
+        "oponent_breakdown": {
+            "5": {
+                "rank": 5,
+                "matches_won": 2,
+                "matches_lost": 1,
+                "frames_won": 14,
+                "frames_lost": 12
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 3,
+                "frames_lost": 4
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 0,
+                "matches_lost": 4,
+                "frames_won": 14,
+                "frames_lost": 28
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 2,
+                "frames_lost": 3
+            }
+        }
+    },
+    {
+        "name": "Tyler King",
+        "team": "Segfault",
+        "original_rank": 3,
+        "adjusted_rank": 2.5,
+        "total_frames_won": 2,
+        "total_frames_lost": 5,
+        "total_matches_won": 0,
+        "total_matches_lost": 1,
+        "oponent_breakdown": {
+            "5": {
+                "rank": 5,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 2,
+                "frames_lost": 5
+            }
+        }
+    },
+    {
+        "name": "Kiran Gavali",
+        "team": "Segfault",
+        "original_rank": 6,
+        "adjusted_rank": 6.0,
+        "total_frames_won": 28,
+        "total_frames_lost": 33,
+        "total_matches_won": 2,
+        "total_matches_lost": 4,
+        "oponent_breakdown": {
+            "7": {
+                "rank": 7,
+                "matches_won": 0,
+                "matches_lost": 2,
+                "frames_won": 10,
+                "frames_lost": 14
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 1,
+                "matches_lost": 1,
+                "frames_won": 7,
+                "frames_lost": 8
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 4,
+                "frames_lost": 7
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 7,
+                "frames_lost": 4
+            }
+        }
+    },
+    {
+        "name": "Saurabh Baisane",
+        "team": "Segfault",
+        "original_rank": 5,
+        "adjusted_rank": 6.3,
+        "total_frames_won": 51,
+        "total_frames_lost": 29,
+        "total_matches_won": 9,
+        "total_matches_lost": 2,
+        "oponent_breakdown": {
+            "5": {
+                "rank": 5,
+                "matches_won": 5,
+                "matches_lost": 0,
+                "frames_won": 23,
+                "frames_lost": 12
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 3,
+                "frames_lost": 2
+            },
+            "7": {
+                "rank": 7,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 7,
+                "frames_lost": 1
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 2,
+                "matches_lost": 1,
+                "frames_won": 15,
+                "frames_lost": 10
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 3,
+                "frames_lost": 4
+            }
+        }
+    },
+    {
+        "name": "Shashidhar Sundareisan",
+        "team": "Segfault",
+        "original_rank": 5,
+        "adjusted_rank": 4.7,
+        "total_frames_won": 48,
+        "total_frames_lost": 44,
+        "total_matches_won": 6,
+        "total_matches_lost": 5,
+        "oponent_breakdown": {
+            "6": {
+                "rank": 6,
+                "matches_won": 3,
+                "matches_lost": 0,
+                "frames_won": 17,
+                "frames_lost": 9
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 1,
+                "matches_lost": 2,
+                "frames_won": 10,
+                "frames_lost": 12
+            },
+            "7": {
+                "rank": 7,
+                "matches_won": 1,
+                "matches_lost": 1,
+                "frames_won": 10,
+                "frames_lost": 10
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 5,
+                "frames_lost": 2
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 3,
+                "frames_lost": 4
+            },
+            "8": {
+                "rank": 8,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 3,
+                "frames_lost": 7
+            }
+        }
+    },
+    {
+        "name": "Stan Liu",
+        "team": "Segfault",
+        "original_rank": 4,
+        "adjusted_rank": 5.1,
+        "total_frames_won": 48,
+        "total_frames_lost": 29,
+        "total_matches_won": 9,
+        "total_matches_lost": 3,
+        "oponent_breakdown": {
+            "6": {
+                "rank": 6,
+                "matches_won": 3,
+                "matches_lost": 0,
+                "frames_won": 13,
+                "frames_lost": 8
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 1,
+                "matches_lost": 2,
+                "frames_won": 7,
+                "frames_lost": 9
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 2,
+                "matches_lost": 1,
+                "frames_won": 13,
+                "frames_lost": 5
+            },
+            "7": {
+                "rank": 7,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 7,
+                "frames_lost": 1
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 2,
+                "matches_lost": 0,
+                "frames_won": 8,
+                "frames_lost": 6
+            }
+        }
+    }
+```
+
+## Doom Team
+
+```
+{
+        "name": "Donnell Griffith",
+        "team": "Doom",
+        "original_rank": 7,
+        "adjusted_rank": 6.6,
+        "total_frames_won": 22,
+        "total_frames_lost": 32,
+        "total_matches_won": 1,
+        "total_matches_lost": 4,
+        "oponent_breakdown": {
+            "7": {
+                "rank": 7,
+                "matches_won": 1,
+                "matches_lost": 2,
+                "frames_won": 15,
+                "frames_lost": 18
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 0,
+                "matches_lost": 2,
+                "frames_won": 7,
+                "frames_lost": 14
+            }
+        }
+    },
+    {
+        "name": "Brad Fels",
+        "team": "Doom",
+        "original_rank": 7,
+        "adjusted_rank": 9.5,
+        "total_frames_won": 44,
+        "total_frames_lost": 28,
+        "total_matches_won": 6,
+        "total_matches_lost": 2,
+        "oponent_breakdown": {
+            "4": {
+                "rank": 4,
+                "matches_won": 2,
+                "matches_lost": 0,
+                "frames_won": 9,
+                "frames_lost": 4
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 1,
+                "matches_lost": 1,
+                "frames_won": 11,
+                "frames_lost": 10
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 2,
+                "matches_lost": 1,
+                "frames_won": 17,
+                "frames_lost": 11
+            },
+            "7": {
+                "rank": 7,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 7,
+                "frames_lost": 3
+            }
+        }
+    },
+    {
+        "name": "Daniel Rapp",
+        "team": "Doom",
+        "original_rank": 5,
+        "adjusted_rank": 7.1,
+        "total_frames_won": 66,
+        "total_frames_lost": 43,
+        "total_matches_won": 10,
+        "total_matches_lost": 4,
+        "oponent_breakdown": {
+            "5": {
+                "rank": 5,
+                "matches_won": 5,
+                "matches_lost": 3,
+                "frames_won": 32,
+                "frames_lost": 25
+            },
+            "7": {
+                "rank": 7,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 7,
+                "frames_lost": 3
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 2,
+                "matches_lost": 1,
+                "frames_won": 20,
+                "frames_lost": 11
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 2,
+                "frames_lost": 0
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 5,
+                "frames_lost": 4
+            }
+        }
+    },
+    {
+        "name": "Kevin Chen",
+        "team": "Doom",
+        "original_rank": 8,
+        "adjusted_rank": 11.2,
+        "total_frames_won": 28,
+        "total_frames_lost": 20,
+        "total_matches_won": 4,
+        "total_matches_lost": 1,
+        "oponent_breakdown": {
+            "3": {
+                "rank": 3,
+                "matches_won": 2,
+                "matches_lost": 1,
+                "frames_won": 16,
+                "frames_lost": 13
+            },
+            "2": {
+                "rank": 2,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 5,
+                "frames_lost": 4
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 7,
+                "frames_lost": 3
+            }
+        }
+    },
+    {
+        "name": "Bea Minor",
+        "team": "Doom",
+        "original_rank": 5,
+        "adjusted_rank": 4.9,
+        "total_frames_won": 28,
+        "total_frames_lost": 29,
+        "total_matches_won": 3,
+        "total_matches_lost": 4,
+        "oponent_breakdown": {
+            "6": {
+                "rank": 6,
+                "matches_won": 2,
+                "matches_lost": 1,
+                "frames_won": 18,
+                "frames_lost": 14
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 1,
+                "matches_lost": 1,
+                "frames_won": 5,
+                "frames_lost": 6
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 3,
+                "frames_lost": 4
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 2,
+                "frames_lost": 5
+            }
+        }
+    },
+    {
+        "name": "Michael Jones",
+        "team": "Doom",
+        "original_rank": 4,
+        "adjusted_rank": 2.7,
+        "total_frames_won": 30,
+        "total_frames_lost": 41,
+        "total_matches_won": 4,
+        "total_matches_lost": 6,
+        "oponent_breakdown": {
+            "4": {
+                "rank": 4,
+                "matches_won": 2,
+                "matches_lost": 3,
+                "frames_won": 16,
+                "frames_lost": 20
+            },
+            "5": {
+                "rank": 5,
+                "matches_won": 2,
+                "matches_lost": 0,
+                "frames_won": 9,
+                "frames_lost": 7
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 0,
+                "matches_lost": 2,
+                "frames_won": 4,
+                "frames_lost": 9
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 1,
+                "frames_lost": 5
+            }
+        }
+    },
+    {
+        "name": "Beth Joy",
+        "team": "Doom",
+        "original_rank": 4,
+        "adjusted_rank": 3.3,
+        "total_frames_won": 22,
+        "total_frames_lost": 25,
+        "total_matches_won": 3,
+        "total_matches_lost": 4,
+        "oponent_breakdown": {
+            "5": {
+                "rank": 5,
+                "matches_won": 1,
+                "matches_lost": 2,
+                "frames_won": 7,
+                "frames_lost": 12
+            },
+            "4": {
+                "rank": 4,
+                "matches_won": 1,
+                "matches_lost": 1,
+                "frames_won": 7,
+                "frames_lost": 6
+            },
+            "3": {
+                "rank": 3,
+                "matches_won": 1,
+                "matches_lost": 0,
+                "frames_won": 5,
+                "frames_lost": 2
+            },
+            "6": {
+                "rank": 6,
+                "matches_won": 0,
+                "matches_lost": 1,
+                "frames_won": 3,
+                "frames_lost": 5
+            }
+        }
+    }
+```
+
+## All Players
+
 ```
 [
     {
